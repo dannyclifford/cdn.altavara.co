@@ -1,0 +1,271 @@
+{
+  "contact_email" : "inventory-quality@altavara.co",
+  "contact_address" : "33 Irving Pl, New York, NY 10003",
+  "version" : "1.0",
+  "identifiers": [
+    {
+      "name": "DUNS",
+      "value": "130916015"
+    }
+  ],
+  "sellers" : [ {
+    "seller_id" : "12001",
+    "name" : "Marquee",
+    "domain" : "marqueemediaus.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12002",
+    "name" : "MLB",
+    "domain" : "mlb.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12003",
+    "name" : "MASN",
+    "domain" : "MASN.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12004",
+    "name" : "AMC",
+    "domain" : "amc.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12005",
+    "name" : "Answer Media",
+    "domain" : "answermedia.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12006",
+    "name" : "Anyclip",
+    "domain" : "anyclip.com",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "12007",
+    "name" : "Azteca",
+    "domain" : "tvazteca.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12008",
+    "name" : "BidFuse",
+    "domain" : "bidfuse.com",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "12009",
+    "name" : "Blox Digital",
+    "domain" : "bloxdigital.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12010",
+    "name" : "Cox Media Group",
+    "domain" : "coxmediagroup.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12011",
+    "name" : "Flosports",
+    "domain" : "flosports.tv",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12012",
+    "name" : "Fuel TV",
+    "domain" : "fuel.tv",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12013",
+    "name" : "Graham Media",
+    "domain" : "grahammedia.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12014",
+    "name" : "Group RVN",
+    "domain" : "grouprvn.com",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "12015",
+    "name" : "Krush Media",
+    "domain" : "krushmedia.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12016",
+    "name" : "LocalBTW",
+    "domain" : "localbtv.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12017",
+    "name" : "LocalNow",
+    "domain" : "localnow.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12018",
+    "name" : "MagellanTV",
+    "domain" : "magellantv.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12019",
+    "name" : "Motor Trend.",
+    "domain" : "motortrend.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12020",
+    "name" : "NESN",
+    "domain" : "nesn.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12021",
+    "name" : "NFL",
+    "domain" : "nfl.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12022",
+    "name" : "Salem Media",
+    "domain" : "salemmedia.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12023",
+    "name" : "SNY",
+    "domain" : "sny.tv",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12024",
+    "name" : "Sports Grid",
+    "domain" : "sportsgrid.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12025",
+    "name" : "The Weather Channel",
+    "domain" : "weather.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12026",
+    "name" : "Telly",
+    "domain" : "telly.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12027",
+    "name" : "VEVO",
+    "domain" : "vevo.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12028",
+    "name" : "VYRE",
+    "domain" : "vyre.tv",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12029",
+    "name" : "WarnerMusic",
+    "domain" : "warnermusic.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12030",
+    "name" : "WotchoTV",
+    "domain" : "wotcho.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12031",
+    "name" : "Nexstar",
+    "domain" : "nexstar.tv",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12032",
+    "name" : "Siprocal",
+    "domain" : "siprocal.com",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "12033",
+    "name" : "SmartNews",
+    "domain" : "smartnews.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12034",
+    "name" : "Shareably",
+    "domain" : "shareably.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12035",
+    "name" : "Factinate",
+    "domain" : "factinate.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12036",
+    "name" : "Crackle",
+    "domain" : "crackle.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12037",
+    "name" : "Loop TV",
+    "domain" : "loop.tv",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12038",
+    "name" : "Atmosphere",
+    "domain" : "atmosphere.tv",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12039",
+    "name" : "Top 5",
+    "domain" : "top5.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12040",
+    "name" : "Infolinks",
+    "domain" : "infolinks.com",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "12041",
+    "name" : "Adtelligent",
+    "domain" : "adtelligent.com",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "12042",
+    "name" : "Advally",
+    "domain" : "advally.com",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "12043",
+    "name" : "MonetizeMore",
+    "domain" : "monetizemore.com",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "12044",
+    "name" : "GustoTV",
+    "domain" : "gusto.tv",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12045",
+    "name" : "Modern Luxury",
+    "domain" : "modernluxury.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12046",
+    "name" : "Xumo",
+    "domain" : "xumo.tv",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12047",
+    "name" : "Daily Mail, Inc.",
+    "domain" : "dmgmedia.co.uk",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12048",
+    "name" : "Scripps Media Inc.",
+    "domain" : "scripps.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12049",
+    "name" : "Blitz.gg",
+    "domain" : "blitz.gg",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12050",
+    "name" : "Fandom",
+    "domain" : "fandom.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "12051",
+    "name" : "Oveeo",
+    "domain" : "oveeo.com",
+    "seller_type" : "INTERMEDIARY",
+     "seller_id" : "12059",
+    "name" : "Match Group, LLC f/k/a Match.com L.L.C.",
+    "domain" : "matchmedia.com",
+    "seller_type" : "PUBLISHER"
+  }
+]}
