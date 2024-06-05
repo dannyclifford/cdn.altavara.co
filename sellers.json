@@ -263,5 +263,10 @@
     "name" : "Oveeo",
     "domain" : "oveeo.com",
     "seller_type" : "INTERMEDIARY"
+}, {
+    "seller_id" : "12052",
+    "name" : "Bright Mountain Media",
+    "domain" : "brightmountainmedia.com",
+    "seller_type" : "BOTH"
 }
 ]}
