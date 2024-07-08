@@ -273,6 +273,11 @@
     "name" : "Trusted Media Brands",
     "domain" : "trustedmediabrands.com",
     "seller_type" : "PUBLISHER"
+}, {
+    "seller_id" : "12054",
+    "name" : "Rakuten",
+    "domain" : "viki.com",
+    "seller_type" : "PUBLISHER"
 }
     
 ]}
