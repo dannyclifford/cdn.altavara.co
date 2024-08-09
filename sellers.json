@@ -34,20 +34,10 @@
     "domain" : "answermedia.com",
     "seller_type" : "PUBLISHER"
   }, {
-    "seller_id" : "12006",
-    "name" : "Anyclip",
-    "domain" : "anyclip.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {
     "seller_id" : "12007",
     "name" : "Azteca",
     "domain" : "tvazteca.com",
     "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "12008",
-    "name" : "BidFuse",
-    "domain" : "bidfuse.com",
-    "seller_type" : "INTERMEDIARY"
   }, {
     "seller_id" : "12009",
     "name" : "Blox Digital",
@@ -78,11 +68,6 @@
     "name" : "Group RVN",
     "domain" : "grouprvn.com",
     "seller_type" : "INTERMEDIARY"
-  }, {
-    "seller_id" : "12015",
-    "name" : "Krush Media",
-    "domain" : "krushmedia.com",
-    "seller_type" : "PUBLISHER"
   }, {
     "seller_id" : "12016",
     "name" : "LocalBTW",
@@ -179,11 +164,6 @@
     "domain" : "shareably.com",
     "seller_type" : "PUBLISHER"
   }, {
-    "seller_id" : "12035",
-    "name" : "Factinate",
-    "domain" : "factinate.com",
-    "seller_type" : "PUBLISHER"
-  }, {
     "seller_id" : "12036",
     "name" : "Crackle",
     "domain" : "crackle.com",
@@ -199,11 +179,6 @@
     "domain" : "atmosphere.tv",
     "seller_type" : "PUBLISHER"
   }, {
-    "seller_id" : "12039",
-    "name" : "Top 5",
-    "domain" : "top5.com",
-    "seller_type" : "PUBLISHER"
-  }, {
     "seller_id" : "12040",
     "name" : "Infolinks",
     "domain" : "infolinks.com",
@@ -212,16 +187,6 @@
     "seller_id" : "12041",
     "name" : "Adtelligent",
     "domain" : "adtelligent.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {
-    "seller_id" : "12042",
-    "name" : "Advally",
-    "domain" : "advally.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {
-    "seller_id" : "12043",
-    "name" : "MonetizeMore",
-    "domain" : "monetizemore.com",
     "seller_type" : "INTERMEDIARY"
   }, {
     "seller_id" : "12044",
