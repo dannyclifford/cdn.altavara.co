@@ -21,7 +21,7 @@
   }, {
     "seller_id" : "12003",
     "name" : "MASN",
-    "domain" : "MASN.com",
+    "domain" : "masnsports.com",
     "seller_type" : "PUBLISHER"
   }, {
     "seller_id" : "12004",
@@ -228,11 +228,6 @@
     "name" : "Oveeo",
     "domain" : "oveeo.com",
     "seller_type" : "INTERMEDIARY"
-}, {
-    "seller_id" : "12052",
-    "name" : "Bright Mountain Media",
-    "domain" : "brightmountainmedia.com",
-    "seller_type" : "BOTH"
 }, {
     "seller_id" : "12053",
     "name" : "Trusted Media Brands",
