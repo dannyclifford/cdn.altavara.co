@@ -238,6 +238,11 @@
     "name" : "Rakuten",
     "domain" : "viki.com",
     "seller_type" : "PUBLISHER"
+}, {
+    "seller_id" : "12055",
+    "name" : "TVIQ",
+    "domain" : "tviq.io",
+    "seller_type" : "BOTH"
 }
     
 ]}
