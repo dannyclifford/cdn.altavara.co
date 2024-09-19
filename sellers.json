@@ -9,6 +9,21 @@
     }
   ],
   "sellers" : [ {
+    "seller_id": 769446,
+    "seller_type": "PUBLISHER",
+    "name": "Free Telly",
+    "domain": "www.freetelly.com"
+  }, {
+    "seller_id": 769456,
+    "seller_type": "PUBLISHER",
+    "name": "ReachTV",
+    "domain": "www.reach.tv"
+  }, {
+    "seller_id": 769457,
+    "seller_type": "PUBLISHER",
+    "name": "OTT Studio",
+    "domain": "www.ott.studio"
+	}, {
     "seller_id" : "12001",
     "name" : "Marquee",
     "domain" : "marqueemediaus.com",
