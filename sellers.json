@@ -263,6 +263,11 @@
     "name" : "Rakuten",
     "domain" : "viki.com",
     "seller_type" : "PUBLISHER"
+}, {
+    "seller_id" : "770192",
+    "name" : "Axis Corp",
+    "domain" : "axis-marketplace.com",
+    "seller_type" : "INTERMEDIARY"
 }
     
 ]}
