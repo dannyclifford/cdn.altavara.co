@@ -44,16 +44,6 @@
     "name": "Free Telly",
     "domain": "telly.com"
   }, {
-    "seller_id": "769456",
-    "seller_type": "PUBLISHER",
-    "name": "ReachTV",
-    "domain": "reach.tv"
-  }, {
-    "seller_id": "769457",
-    "seller_type": "PUBLISHER",
-    "name": "OTT Studio",
-    "domain": "ott.studio"
-  }, {
     "seller_id": 769456,
     "seller_type": "PUBLISHER",
     "name": "ReachTV",
@@ -234,7 +224,7 @@
     "domain" : "infolinks.com",
     "seller_type" : "INTERMEDIARY"
   }, {
-    "seller_id" : "12041",
+    "seller_id" : "767823",
     "name" : "Adtelligent",
     "domain" : "adtelligent.com",
     "seller_type" : "INTERMEDIARY"
@@ -269,7 +259,7 @@
     "domain" : "fandom.com",
     "seller_type" : "PUBLISHER"
   }, {
-    "seller_id" : "12051",
+    "seller_id" : "767780",
     "name" : "Oveeo",
     "domain" : "oveeo.com",
     "seller_type" : "INTERMEDIARY"
