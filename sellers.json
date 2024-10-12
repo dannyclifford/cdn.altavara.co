@@ -14,6 +14,26 @@
       "name": "TVIQ",
       "domain": "tviq.io"
   }, {
+    "seller_id": "770262",
+    "seller_type": "PUBLISHER",
+    "name": "Wizard Games",
+    "domain": "wizardgames.ca"
+  }, {
+    "seller_id": "771960",
+    "seller_type": "PUBLISHER",
+    "name": "FuboTV",
+    "domain": "fubo.tv"
+  }, {
+    "seller_id": "771962",
+    "seller_type": "BOTH",
+    "name": "Plex",
+    "domain": "plex.tv"
+  }, {
+    "seller_id": "771965",
+    "seller_type": "INTERMEDIARY",
+    "name": "Streamvision",
+    "domain": "streamvision.com"
+  }, {
     "seller_id": "769698",
     "seller_type": "PUBLISHER",
     "name": "Zepheree",
