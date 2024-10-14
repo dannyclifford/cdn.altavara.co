@@ -9,10 +9,25 @@
     }
   ],
   "sellers" : [ {
-      "seller_id": "767935",
-      "seller_type": "BOTH",
-      "name": "TVIQ",
-      "domain": "tviq.io"
+      "seller_id": "772041",
+      "seller_type": "PUBLISHER",
+      "name": "Video Elephant",
+      "domain": "videoelephant.com"
+  }, {
+    "seller_id": "772051",
+    "seller_type": "PUBLISHER",
+    "name": "Edison Interactive",
+    "domain": "edisoninteractive.com"
+  }, {
+    "seller_id": "771966",
+    "seller_type": "INTERMEDIARY",
+    "name": "Adxcelerant",
+    "domain": "adxact.tech"
+  }, {
+    "seller_id": "767935",
+    "seller_type": "BOTH",
+    "name": "TVIQ",
+    "domain": "tviq.io"  
   }, {
     "seller_id": "770262",
     "seller_type": "PUBLISHER",
