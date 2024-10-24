@@ -14,6 +14,31 @@
       "name": "Video Elephant",
       "domain": "videoelephant.com"
   }, {
+    "seller_id": 772550,
+    "seller_type": "BOTH",
+    "name": "Viva CTV",
+    "domain": "www.vivactv.com"
+  }, {
+    "seller_id": 772418,
+    "seller_type": "BOTH",
+    "name": "Fomo TV",
+    "domain": "www.fomo-tv.com"
+	}, {
+    "seller_id": 772157,
+    "seller_type": "PUBLISHER",
+    "name": "Fundozer",
+    "domain": "www.fundozer.com"
+  }, {
+    "seller_id": 771977,
+    "seller_type": "PUBLISHER",
+    "name": "Flicky TV",
+    "domain": "www.flicky.tv"
+	}, {
+    "seller_id": 772075,
+    "seller_type": "PUBLISHER",
+    "name": "EMTV",
+    "domain": "www.engagemedia.tv"
+  }, {
     "seller_id": "772051",
     "seller_type": "PUBLISHER",
     "name": "Edison Interactive",
@@ -40,7 +65,7 @@
     "domain": "fubo.tv"
   }, {
     "seller_id": "771962",
-    "seller_type": "BOTH",
+    "seller_type": "PUBLISHER",
     "name": "Plex",
     "domain": "plex.tv"
   }, {
