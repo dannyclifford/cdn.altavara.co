@@ -2,97 +2,130 @@
   "contact_email" : "inventory-quality@altavara.co",
   "contact_address" : "33 Irving Pl, New York, NY 10003",
   "version" : "1.0",
-  "identifiers": [
-    {
-      "name": "DUNS",
-      "value": "130916015"
-    }
-  ],
+  "identifiers" : [{
+      "name" : "DUNS",
+      "value" : "130916015"
+}],
   "sellers" : [ {
-      "seller_id": "772041",
-      "seller_type": "PUBLISHER",
-      "name": "Video Elephant",
-      "domain": "videoelephant.com"
+    "seller_id" : "772114",
+    "name" : "Place Exchange (DOOH Network)",
+    "domain" : "placeexchange.com",
+    "seller_type" : "INTERMEDIARY"
   }, {
-    "seller_id": 772550,
-    "seller_type": "BOTH",
-    "name": "Viva CTV",
-    "domain": "www.vivactv.com"
+    "seller_id" : "772164",
+    "name" : "Taiv",
+    "domain" : "taiv.tv",
+    "seller_type" : "PUBLISHER"
   }, {
-    "seller_id": 772418,
-    "seller_type": "BOTH",
-    "name": "Fomo TV",
-    "domain": "www.fomo-tv.com"
-	}, {
-    "seller_id": 772157,
-    "seller_type": "PUBLISHER",
-    "name": "Fundozer",
-    "domain": "www.fundozer.com"
+    "seller_id" : "772212",
+    "name" : "LoopTV",
+    "domain" : "loop.tv",
+    "seller_type" : "PUBLISHER"
   }, {
-    "seller_id": 771977,
-    "seller_type": "PUBLISHER",
-    "name": "Flicky TV",
-    "domain": "www.flicky.tv"
-	}, {
-    "seller_id": 772075,
-    "seller_type": "PUBLISHER",
-    "name": "EMTV",
-    "domain": "www.engagemedia.tv"
+    "seller_id" : "772611",
+    "name" : "Barboards",
+    "domain" : "barboards.tv",
+    "seller_type" : "PUBLISHER"
   }, {
-    "seller_id": "772051",
-    "seller_type": "PUBLISHER",
-    "name": "Edison Interactive",
-    "domain": "edisoninteractive.com"
+    "seller_id" : "772617",
+    "name" : "Infolinks",
+    "domain" : "infolinks.com",
+    "seller_type" : "PUBLISHER"
   }, {
-    "seller_id": "771966",
-    "seller_type": "INTERMEDIARY",
-    "name": "Adxcelerant",
-    "domain": "adxact.tech"
+    "seller_id" : "772766",
+    "name" : "Commodified Image",
+    "domain" : "commodifiedimage.com",
+    "seller_type" : "BOTH"
   }, {
-    "seller_id": "767935",
-    "seller_type": "BOTH",
-    "name": "TVIQ",
-    "domain": "tviq.io"  
+    "seller_id" : "772829",
+    "name" : "Dark Matter TV",
+    "domain" : "darkmattertv.com", 
+    "seller_type" : "PUBLISHER"
   }, {
-    "seller_id": "770262",
-    "seller_type": "PUBLISHER",
-    "name": "Wizard Games",
-    "domain": "wizardgames.ca"
+    "seller_id" : "772041",
+    "name" : "Video Elephant",
+    "domain" : "videoelephant.com",
+    "seller_type" : "PUBLISHER"
   }, {
-    "seller_id": "771960",
-    "seller_type": "PUBLISHER",
-    "name": "FuboTV",
-    "domain": "fubo.tv"
+    "seller_id" : "772550",   
+    "name" : "Viva CTV",
+    "domain" : "www.vivactv.com",
+    "seller_type" : "BOTH"
   }, {
-    "seller_id": "771962",
-    "seller_type": "PUBLISHER",
-    "name": "Plex",
-    "domain": "plex.tv"
+    "seller_id" : "772418",
+    "name" : "Fomo TV",
+    "domain" : "www.fomo-tv.com",
+    "seller_type" : "BOTH"
   }, {
-    "seller_id": "771965",
-    "seller_type": "INTERMEDIARY",
-    "name": "Streamvision",
-    "domain": "streamvision.com"
+    "seller_id" : "772158",
+    "name" : "Fundozer",
+    "domain" : "www.fundozer.com",
+    "seller_type" : "PUBLISHER"
   }, {
-    "seller_id": "769698",
-    "seller_type": "PUBLISHER",
-    "name": "Zepheree",
-    "domain": "zepheree.com"
+    "seller_id" : "771977",
+    "name" : "Flicky TV",
+    "domain" : "www.flicky.tv",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "772075",
+    "name" : "EMTV",
+    "domain" : "www.engagemedia.tv",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "772051",
+    "name" : "Edison Interactive",
+    "domain" : "edisoninteractive.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "771966",
+    "name" : "Adxcelerant",
+    "domain" : "adxact.tech",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "767935",
+    "name" : "TVIQ",
+    "domain" : "tviq.io", 
+    "seller_type" : "BOTH"
+  }, {
+    "seller_id" : "770262",
+    "name" : "Wizard Games",
+    "domain" : "wizardgames.ca",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "771960",
+    "name" : "FuboTV",
+    "domain" : "fubo.tv",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "771962",
+    "name" : "Plex",
+    "domain" : "plex.tv",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "771965",
+    "name" : "Streamvision",
+    "domain" : "streamvision.com",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "769698",
+    "name" : "Zepheree",
+    "domain" : "zepheree.com",
+    "seller_type" : "PUBLISHER"
   }, {    
-    "seller_id": "769446",
-    "seller_type": "PUBLISHER",
-    "name": "Free Telly",
-    "domain": "telly.com"
+    "seller_id" : "769446",
+    "name" : "Free Telly",
+    "domain" : "telly.com",
+    "seller_type": "PUBLISHER"
   }, {
-    "seller_id": 769456,
-    "seller_type": "PUBLISHER",
-    "name": "ReachTV",
-    "domain": "www.reach.tv"
+    "seller_id" : "769456",
+    "name" : "ReachTV",
+    "domain" : "www.reach.tv",
+    "seller_type" : "PUBLISHER",
   }, {
-    "seller_id": 769457,
-    "seller_type": "PUBLISHER",
-    "name": "OTT Studio",
-    "domain": "www.ott.studio"
+    "seller_id" : "769457",
+    "name" : "OTT Studio",
+    "domain" : "www.ott.studio",
+    "seller_type" : "PUBLISHER"
   }, {
     "seller_id" : "12001",
     "name" : "Marquee",
@@ -303,21 +336,20 @@
     "name" : "Oveeo",
     "domain" : "oveeo.com",
     "seller_type" : "INTERMEDIARY"
-}, {
+  }, {
     "seller_id" : "12053",
     "name" : "Trusted Media Brands",
     "domain" : "trustedmediabrands.com",
     "seller_type" : "PUBLISHER"
-}, {
+  }, {
     "seller_id" : "12054",
     "name" : "Rakuten",
     "domain" : "viki.com",
     "seller_type" : "PUBLISHER"
-}, {
+  }, {
     "seller_id" : "770192",
     "name" : "Axis Corp",
     "domain" : "axis-marketplace.com",
     "seller_type" : "INTERMEDIARY"
+  }]
 }
-    
-]}
