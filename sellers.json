@@ -6,7 +6,12 @@
       "name" : "DUNS",
       "value" : "130916015"
 }],
-  "sellers" : [ {
+"sellers" : [ {
+    "seller_id" : "769701",
+    "name" : "FAST TV",
+    "domain" : "fasttvltd.com",
+    "seller_type" : "PUBLISHER"
+  }, {
     "seller_id" : "772114",
     "name" : "Place Exchange (DOOH Network)",
     "domain" : "placeexchange.com",
