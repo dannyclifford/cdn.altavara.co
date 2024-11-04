@@ -37,11 +37,6 @@
     "domain" : "infolinks.com",
     "seller_type" : "PUBLISHER"
   }, {
-    "seller_id" : "772766",
-    "name" : "Commodified Image",
-    "domain" : "commodifiedimage.com",
-    "seller_type" : "BOTH"
-  }, {
     "seller_id" : "772829",
     "name" : "Dark Matter TV",
     "domain" : "darkmattertv.com", 
@@ -52,24 +47,9 @@
     "domain" : "videoelephant.com",
     "seller_type" : "PUBLISHER"
   }, {
-    "seller_id" : "772550",   
-    "name" : "Viva CTV",
-    "domain" : "www.vivactv.com",
-    "seller_type" : "BOTH"
-  }, {
-    "seller_id" : "772418",
-    "name" : "Fomo TV",
-    "domain" : "www.fomo-tv.com",
-    "seller_type" : "BOTH"
-  }, {
     "seller_id" : "772158",
     "name" : "Fundozer",
     "domain" : "www.fundozer.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "771977",
-    "name" : "Flicky TV",
-    "domain" : "www.flicky.tv",
     "seller_type" : "PUBLISHER"
   }, {
     "seller_id" : "772075",
