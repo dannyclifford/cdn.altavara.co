@@ -10,7 +10,7 @@
     "seller_id" : "769701",
     "name" : "FAST TV",
     "domain" : "fasttvltd.com",
-    "seller_type" : "PUBLISHER"
+    "seller_type" : "BOTH"
   }, {  
     "seller_id" : "773073",
     "name" : "Oncore Digital",
@@ -55,17 +55,17 @@
     "seller_id" : "772617",
     "name" : "Infolinks",
     "domain" : "infolinks.com",
-    "seller_type" : "PUBLISHER"
+    "seller_type" : "INTERMEDIARY"
   }, {
     "seller_id" : "772766",
     "name" : "Commodified Image",
     "domain" : "commodifiedimage.com",
-    "seller_type" : "PUBLISHER"
+    "seller_type" : "BOTH"
   }, {
     "seller_id" : "772829",
     "name" : "Dark Matter TV",
     "domain" : "darkmattertv.com", 
-    "seller_type" : "PUBLISHER"
+    "seller_type" : "BOTH"
   }, {
     "seller_id" : "772041",
     "name" : "Video Elephant",
@@ -85,7 +85,7 @@
     "seller_id" : "767935",
     "name" : "TVIQ",
     "domain" : "tviq.io", 
-    "seller_type" : "PUBLISHER"
+    "seller_type" : "INTERMEDIARY"
   }, {
     "seller_id" : "770262",
     "name" : "Wizard Games",
@@ -105,7 +105,7 @@
     "seller_id" : "771965",
     "name" : "Streamvision",
     "domain" : "streamvision.com",
-    "seller_type" : "PUBLISHER"
+    "seller_type" : "INTERMEDIARY"
   }, {
     "seller_id" : "769698",
     "name" : "Zepheree",
@@ -119,12 +119,12 @@
   }, {
     "seller_id" : "769456",
     "name" : "ReachTV",
-    "domain" : "www.reach.tv",
+    "domain" : "reach.tv",
     "seller_type" : "PUBLISHER"
   }, {
     "seller_id" : "769457",
     "name" : "OTT Studio",
-    "domain" : "www.ott.studio",
+    "domain" : "ott.studio",
     "seller_type" : "PUBLISHER"
   }, {
     "seller_id" : "797478",
@@ -290,7 +290,7 @@
     "seller_id" : "767823",
     "name" : "Adtelligent",
     "domain" : "adtelligent.com",
-    "seller_type" : "PUBLISHER"
+    "seller_type" : "INTERMEDIARY"
   }, {
     "seller_id" : "797416",
     "name" : "GustoTV",
@@ -320,17 +320,17 @@
     "seller_id" : "772827",
     "name" : "Hax Media",
     "domain" : "haxmediapartners.com",
-    "seller_type" : "PUBLISHER"
+    "seller_type" : "INTERMEDIARY"
   }, {   
     "seller_id" : "772885",
     "name" : "Ionvo Group",
     "domain" : "ionvogroup.com",
-    "seller_type" : "PUBLISHER"
+    "seller_type" : "INTERMEDIARY"
   }, {   
     "seller_id" : "772995",
     "name" : "Megadilla",
     "domain" : "megadilla.co",
-    "seller_type" : "PUBLISHER"
+    "seller_type" : "BOTH"
   }, {   
     "seller_id" : "797406",
     "name" : "Fandom",
@@ -355,31 +355,31 @@
     "seller_id" : "770192",
     "name" : "Axis Corp",
     "domain" : "axis-marketplace.com",
-    "seller_type" : "PUBLISHER"
+    "seller_type" : "INTERMEDIARY"
   }, {
     "seller_id" : "772550",   
     "name" : "Viva CTV",
-    "domain" : "www.vivactv.com",
+    "domain" : "vivactv.com",
     "seller_type" : "BOTH"
   }, {
     "seller_id" : "772418",
     "name" : "Fomo TV",
-    "domain" : "www.fomo-tv.com",
+    "domain" : "fomo-tv.com",
     "seller_type" : "BOTH"
   }, {
     "seller_id" : "772158",
     "name" : "Fundozer",
-    "domain" : "www.fundozer.com",
-    "seller_type" : "PUBLISHER"
+    "domain" : "fundozer.com",
+    "seller_type" : "BOTH"
   }, {
     "seller_id" : "771977",
     "name" : "Flicky TV",
-    "domain" : "www.flicky.tv",
-    "seller_type" : "PUBLISHER"
+    "domain" : "flicky.tv",
+    "seller_type" : "BOTH"
   }, {
     "seller_id" : "772075",
     "name" : "EMTV",
-    "domain" : "www.engagemedia.tv",
-    "seller_type" : "PUBLISHER"
+    "domain" : "engagemedia.tv",
+    "seller_type" : "BOTH"
   }]
 }
