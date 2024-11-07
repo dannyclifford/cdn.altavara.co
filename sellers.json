@@ -390,7 +390,7 @@
     "seller_type": "PUBLISHER",
     "is_confidential": 1
   }, {
-    "seller_id" : "772550",   
+    "seller_id" : "772552",   
     "name" : "Viva CTV",
     "domain" : "vivactv.com",
     "seller_type" : "BOTH"
@@ -420,11 +420,11 @@
     "seller_id" : "771977",
     "name" : "Flicky TV",
     "domain" : "flicky.tv",
-    "seller_type" : "BOTH"
+    "seller_type" : "PUBLISHER"
   }, {
     "seller_id" : "772075",
-    "name" : "EMTV",
+    "name" : "Engage Media TV",
     "domain" : "engagemedia.tv",
-    "seller_type" : "BOTH"
+    "seller_type" : "PUBLISHER"
   }]
 }
