@@ -42,6 +42,18 @@
     "domain" : "placeexchange.com",
     "seller_type" : "INTERMEDIARY"
   }, {
+    "seller_id" : "769406",
+    "seller_type": "PUBLISHER",
+    "is_confidential": 1
+  }, {
+    "seller_id" : "768256",
+    "seller_type": "PUBLISHER",
+    "is_confidential": 1
+  }, {
+    "seller_id" : "771976",
+    "seller_type": "PUBLISHER",
+    "is_confidential": 1
+  }, {
     "seller_id" : "772164",
     "name" : "Taiv",
     "domain" : "taiv.tv",
@@ -101,6 +113,10 @@
     "name" : "FuboTV",
     "domain" : "fubo.tv",
     "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "772687",
+    "seller_type": "INTERMEDIARY",
+    "is_confidential": 1
   }, {
     "seller_id" : "771962",
     "name" : "Plex",
@@ -317,6 +333,10 @@
     "domain" : "scripps.com",
     "seller_type" : "PUBLISHER"
   }, {
+    "seller_id" : "772831",
+    "seller_type": "PUBLISHER",
+    "is_confidential": 1
+  }, {
     "seller_id" : "797408",
     "name" : "Blitz.gg",
     "domain" : "blitz.gg",
@@ -362,6 +382,14 @@
     "domain" : "axis-marketplace.com",
     "seller_type" : "INTERMEDIARY"
   }, {
+    "seller_id" : "",
+    "seller_type": "PUBLISHER",
+    "is_confidential": 1
+  }, {
+    "seller_id" : "768039",
+    "seller_type": "PUBLISHER",
+    "is_confidential": 1
+  }, {
     "seller_id" : "772550",   
     "name" : "Viva CTV",
     "domain" : "vivactv.com",
@@ -376,6 +404,22 @@
     "name" : "Fundozer",
     "domain" : "fundozer.com",
     "seller_type" : "BOTH"
+  }, {
+    "seller_id" : "767995",
+    "seller_type": "PUBLISHER",
+    "is_confidential": 1
+  }, {
+    "seller_id" : "768255",
+    "seller_type": "PUBLISHER",
+    "is_confidential": 1
+  }, {
+    "seller_id" : "768000",
+    "seller_type": "INTERMEDIARY",
+    "is_confidential": 1
+  }, {
+    "seller_id" : "767820",
+    "seller_type": "PUBLISHER",
+    "is_confidential": 1
   }, {
     "seller_id" : "771977",
     "name" : "Flicky TV",
