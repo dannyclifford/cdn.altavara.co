@@ -102,7 +102,7 @@
     "seller_id" : "767935",
     "name" : "TVIQ",
     "domain" : "tviq.io", 
-    "seller_type" : "INTERMEDIARY"
+    "seller_type" : "BOTH"
   }, {
     "seller_id" : "770262",
     "name" : "Wizard Games",
