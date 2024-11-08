@@ -3,7 +3,7 @@
 OWNERDOMAIN=altavara.co
 
 #Altavara
-
+altavara.co, 770010, DIRECT
 
 #Nexxen
 video.unrulymedia.com, 284522492, RESELLER
