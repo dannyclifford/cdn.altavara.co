@@ -85,4 +85,20 @@ filmzie.com, 9894051, DIRECT
 lgads.tv, 792918, DIRECT
 conversantmedia.com, 100218, RESELLER, 03113cd04947736d
 
+#Lemma Technologies
+lemmatechnologies.com, 1563, DIRECT, 7829010c5bebd1fb
+freewheel.tv, 1585652, RESELLER
+freewheel.tv, 1585681, RESELLER
+pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 8167205979129043832, DIRECT
+Contextweb.com,562930,RESELLER,89ff185a4c4e857c
+onetag.com, 8d4bbebb8fa701e, DIRECT
+growzee.io, 031ae447-d523-4804-b4c7-be282ad874c3, DIRECT
+instal.com, 031ae447-d523-4804-b4c7-be282ad874c3, DIRECT
+advangelists.com, 57b9c5d42a8fe216162345a05b6e6afb, RESELLER, 60d26397ec060f98
+magicmedia.ae, 6f828808, DIRECT
+e-planning.net,608359bb987625b2,DIRECT,c1ba615865ed87b2
+connatix.com, 1742365173855029, DIRECT, 2af98acdee0e81ed
+boldscreen.com, 765167, DIRECT
+
 inventorypartnerdomain=darkmattertv.com
