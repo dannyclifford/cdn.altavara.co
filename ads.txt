@@ -1,0 +1,104 @@
+# Altavara - Ads.txt
+# Version date 11.04.2024
+OWNERDOMAIN=altavara.co
+
+#Altavara
+altavara.co, 770010, DIRECT
+
+#Nexxen
+video.unrulymedia.com, 284522492, RESELLER
+
+#ColossusSSP
+supply.colossusssp.com, 816, DIRECT, 6c5b49d96ec1b458
+xandr.com, 10490, RESELLER
+yieldmo.com, 3081538394287710485, RESELLER, #ortbctv
+yieldmo.com, 3078438591206989879, RESELLER, #ortb
+
+#RISECODES
+risecodes.com, 667408893c1ca20001f47c8a, DIRECT
+pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
+xandr.com, 14082, RESELLER
+rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
+sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
+yieldmo.com, 2754490424016969782, RESELLER
+media.net, 8CUQ6928Q, RESELLER
+lijit.com, 405318, RESELLER, fafdf38b16bf6b2b
+33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
+video.unrulymedia.com, 335119963, RESELLER
+loopme.com, 11362, RESELLER, 6c8d5f95897a5a3b
+contextweb.com,562615,RESELLER,89ff185a4c4e857c
+onetag.com, 69f48c2160c8113, RESELLER
+openx.com, 537140488, RESELLER, 6a698e2ec38604c6
+sonobi.com, 4a289cdd79, RESELLER, d1a215d9eb5aee9e
+amxrtb.com, 105199691, RESELLER
+smartadserver.com, 4284, RESELLER
+adform.com, 3119, RESELLER, 9f5210a2f0999e32
+adyoulike.com, 78afbc34fac571736717317117dfa247, RESELLER
+themediagrid.com, 4DQHAP, RESELLER, 35d5010d7789b49d
+freewheel.tv, 1590601, RESELLER
+freewheel.tv, 1590606, RESELLER
+lijit.com, 405318, RESELLER, fafdf38b16bf6b2b
+
+#NextMillennium
+nextmillennium.io, 16764, DIRECT, 65bd090fa4a1e3d6
+admagnetix.io, 201905, DIRECT
+appnexus.com, 15799, DIRECT, f5ab79cb980f11d1
+indexexchange.com, 207985, RESELLER, 50b1c356f2c5c8fc
+rubiconproject.com, 26296, RESELLER, 0bfd66d529a55807
+pubmatic.com, 164400, RESELLER, 5d62403b186f2ace
+openx.com, 540224251, DIRECT, 6a698e2ec38604c6
+openx.com, 540225743, DIRECT, 6a698e2ec38604c6
+33across.com, 001Pg000007PnplIAC, DIRECT, bbea06d9c4d2853c
+yieldmo.com, 3483642730188317326, DIRECT
+
+#BMM
+pubmatic.com,159527,RESELLER,5d62403b186f2ace
+freewheel.tv,1606625,RESELLER
+video.unrulymedia.com,667989109,RESELLER
+contextweb.com,563266,RESELLER,89ff185a4c4e857c
+appnexus.com,9914,RESELLER
+sharethrough.com,1leEveR6,RESELLER,d53b998a7bd4ecd2
+supply.colossusssp.com,238,DIRECT,6c5b49d96ec1b458
+brightmountainmedia.com,2686820,DIRECT
+
+#Tricoast
+darkmattertv.com, 1322, DIRECT
+darkmattertv.com, 1322, RESELLER
+pubmatic.com,164638,RESELLER
+openx.com, 559612253, RESELLER, 6a698e2ec38604c6
+freewheel.tv, 512116, RESELLER
+freewheel.tv, 512116-523319, RESELLER
+freewheel.tv, 515189, RESELLER
+sabio.us, 100117, RESELLER, 96ed93aaa9795702
+freewheel.tv, 1606620, RESELLER
+indexexchange.com, 205322, RESELLER, 50b1c356f2c5c8fc
+openx.com, 560873221, DIRECT, 6a698e2ec38604c6
+
+#Leanback Digital
+leanback.digital, 567882, DIRECT, b1d30350acaf0176
+lnb.ortb.net, 567882, RESELLER
+rhythmone.com, 1175643313, DIRECT, a670c89d4a324e47
+video.unrulymedia.com, 1175643313, DIRECT
+Video.unrulymedia.com, 429533720, RESELLER
+loopme.com, 11531, RESELLER, 6c8d5f95897a5a3b
+filmzie.com, 9894051, DIRECT
+lgads.tv, 792918, DIRECT
+conversantmedia.com, 100218, RESELLER, 03113cd04947736d
+
+#Lemma Technologies
+lemmatechnologies.com, 1563, DIRECT, 7829010c5bebd1fb
+freewheel.tv, 1585652, RESELLER
+freewheel.tv, 1585681, RESELLER
+pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 8167205979129043832, DIRECT
+Contextweb.com,562930,RESELLER,89ff185a4c4e857c
+onetag.com, 8d4bbebb8fa701e, DIRECT
+growzee.io, 031ae447-d523-4804-b4c7-be282ad874c3, DIRECT
+instal.com, 031ae447-d523-4804-b4c7-be282ad874c3, DIRECT
+advangelists.com, 57b9c5d42a8fe216162345a05b6e6afb, RESELLER, 60d26397ec060f98
+magicmedia.ae, 6f828808, DIRECT
+e-planning.net,608359bb987625b2,DIRECT,c1ba615865ed87b2
+connatix.com, 1742365173855029, DIRECT, 2af98acdee0e81ed
+boldscreen.com, 765167, DIRECT
+
+inventorypartnerdomain=darkmattertv.com
