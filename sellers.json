@@ -12,6 +12,11 @@
     "domain" : "invisionery.com",
     "seller_type" : "PUBLISHER"
   }, {  
+    "seller_id" : "772418",
+    "name" : "FOMO TV",
+    "domain" : "fomo-tv.com",
+    "seller_type" : "PUBLISHER"
+  }, {  
     "seller_id" : "769701",
     "name" : "FAST TV",
     "domain" : "fasttvltd.com",
