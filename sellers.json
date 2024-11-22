@@ -77,7 +77,7 @@
     "seller_id" : "772617",
     "name" : "Infolinks",
     "domain" : "infolinks.com",
-    "seller_type" : "INTERMEDIARY"
+    "seller_type" : "BOTH"
   }, {
     "seller_id" : "772766",
     "name" : "Commodified Image",
