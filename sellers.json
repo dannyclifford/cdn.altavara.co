@@ -7,6 +7,31 @@
       "value" : "130916015"
 } ],
   "sellers" : [ {
+    "seller_id" : "773726",
+    "name" : "Adviddo STR",
+    "domain" : "adviddo.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "773862",
+    "name" : "Vandalay Media",
+    "domain" : "vandalaymedia.com",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "773706",
+    "name" : "Madstream",
+    "domain" : "madstream.net",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "773907",
+    "name" : "Stellor Media LLC.",
+    "domain" : "stellormedia.com",
+    "seller_type" : "BOTH"
+  }, {
+    "seller_id" : "773907",
+    "name" : "Fast Channels TV",
+    "domain" : "fastchannels.tv",
+    "seller_type" : "PUBLISHER"
+  }, {  
     "seller_id" : "772991",
     "name" : "Invisionery LLC.",
     "domain" : "invisionery.com",
@@ -25,12 +50,12 @@
     "seller_id" : "773073",
     "name" : "Oncore Digital",
     "domain" : "oncoredigital.com",
-    "seller_type" : "DIRECT"
+    "seller_type" : "INTERMEDIARY"
   }, {   
     "seller_id" : "773058",
     "name" : "Oncore Digital",
     "domain" : "oncoredigital.com",
-    "seller_type" : "INTERMEDIARY"
+    "seller_type" : "PUBLISHER"
   }, {   
     "seller_id" : "773074",
     "name" : "Mediafuse LLC.",
@@ -74,7 +99,7 @@
     "domain" : "barboards.tv",
     "seller_type" : "PUBLISHER"
   }, {
-    "seller_id" : "772617",
+    "seller_id" : "773722",
     "name" : "Infolinks",
     "domain" : "infolinks.com",
     "seller_type" : "BOTH"
