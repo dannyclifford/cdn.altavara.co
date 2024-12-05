@@ -7,6 +7,11 @@
       "value" : "130916015"
 } ],
   "sellers" : [ {
+    "seller_id": "920624",
+    "name": "YuppTV",
+    "domain": "yupptv.com",
+    "seller_type": "PUBLISHER"
+  }, {
     "seller_id" : "773726",
     "name" : "Adviddo STR",
     "domain" : "adviddo.com",
