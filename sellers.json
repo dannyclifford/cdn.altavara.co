@@ -1,10 +1,10 @@
 {
-  "contact_email" : "inventory-quality@altavara.co",
-  "contact_address" : "33 Irving Pl, New York, NY 10003",
-  "version" : "1.0",
-  "identifiers" : [ {
-      "name" : "DUNS",
-      "value" : "130916015"
+"contact_email" : "inventory-quality@altavara.co",
+"contact_address" : "33 Irving Pl, New York, NY 10003",
+"version" : "1.0",
+"identifiers" : [ {
+    "name" : "DUNS",
+    "value" : "130916015"
 } ],
   "sellers" : [ {
     "seller_id": "920624",
