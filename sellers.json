@@ -17,36 +17,6 @@
     "domain" : "zeammedia.com",
     "seller_type" : "PUBLISHER"
   }, {
-    "seller_id" : "773706",
-    "name" : "Madstream",
-    "domain" : "madstream.net",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "773907",
-    "name" : "Stellor Media LLC.",
-    "domain" : "stellormedia.com",
-    "seller_type" : "BOTH"
-  }, {
-    "seller_id" : "773907",
-    "name" : "Fast Channels TV",
-    "domain" : "fastchannels.tv",
-    "seller_type" : "PUBLISHER"
-  }, {  
-    "seller_id" : "772991",
-    "name" : "Invisionery LLC.",
-    "domain" : "invisionery.com",
-    "seller_type" : "PUBLISHER"
-  }, {  
-    "seller_id" : "772418",
-    "name" : "FOMO TV",
-    "domain" : "fomo-tv.com",
-    "seller_type" : "PUBLISHER"
-  }, {  
-    "seller_id" : "769701",
-    "name" : "FAST TV",
-    "domain" : "fasttvltd.com",
-    "seller_type" : "BOTH"
-  }, {  
     "seller_id" : "773073",
     "name" : "Oncore Digital",
     "domain" : "oncoredigital.com",
@@ -442,6 +412,36 @@
     "domain" : "flicky.tv",
     "seller_type" : "PUBLISHER"
   }, {
+    "seller_id" : "773706",
+    "name" : "Madstream",
+    "domain" : "madstream.net",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "773907",
+    "name" : "Stellor Media LLC.",
+    "domain" : "stellormedia.com",
+    "seller_type" : "BOTH"
+  }, {
+    "seller_id" : "773907",
+    "name" : "Fast Channels TV",
+    "domain" : "fastchannels.tv",
+    "seller_type" : "PUBLISHER"
+  }, {  
+    "seller_id" : "772991",
+    "name" : "Invisionery LLC.",
+    "domain" : "invisionery.com",
+    "seller_type" : "PUBLISHER"
+  }, {  
+    "seller_id" : "772418",
+    "name" : "FOMO TV",
+    "domain" : "fomo-tv.com",
+    "seller_type" : "PUBLISHER"
+  }, {  
+    "seller_id" : "769701",
+    "name" : "FAST TV",
+    "domain" : "fasttvltd.com",
+    "seller_type" : "BOTH"
+  }, {  
     "seller_id" : "773726",
     "name" : "Adviddo STR",
     "domain" : "adviddo.com",
