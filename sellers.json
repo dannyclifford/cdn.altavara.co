@@ -17,21 +17,6 @@
     "domain" : "zeammedia.com",
     "seller_type" : "PUBLISHER"
   }, {
-    "seller_id" : "774140",
-    "name" : "Clipmeup",
-    "domain" : "clipmeup.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "773726",
-    "name" : "Adviddo STR",
-    "domain" : "adviddo.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "773862",
-    "name" : "Vandalay Media",
-    "domain" : "vandalaymedia.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {
     "seller_id" : "773706",
     "name" : "Madstream",
     "domain" : "madstream.net",
@@ -102,11 +87,6 @@
     "seller_id" : "772164",
     "name" : "Taiv",
     "domain" : "taiv.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "772212",
-    "name" : "LoopTV",
-    "domain" : "loop.tv",
     "seller_type" : "PUBLISHER"
   }, {
     "seller_id" : "772611",
@@ -356,7 +336,7 @@
     "seller_id" : "767823",
     "name" : "Adtelligent",
     "domain" : "adtelligent.com",
-    "seller_type" : "INTERMEDIARY"
+    "seller_type" : "BOTH"
   }, {
     "seller_id" : "797416",
     "name" : "GustoTV",
@@ -387,16 +367,6 @@
     "domain" : "blitz.gg",
     "seller_type" : "PUBLISHER"
   }, {  
-    "seller_id" : "772827",
-    "name" : "Hax Media",
-    "domain" : "haxmediapartners.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {   
-    "seller_id" : "772885",
-    "name" : "Ionvo Group",
-    "domain" : "ionvogroup.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {   
     "seller_id" : "772995",
     "name" : "Megadilla",
     "domain" : "megadilla.co",
@@ -440,6 +410,11 @@
     "domain" : "vivactv.com",
     "seller_type" : "BOTH"
   }, {
+    "seller_id" : "772212",
+    "name" : "LoopTV",
+    "domain" : "loop.tv",
+    "seller_type" : "PUBLISHER"
+  }, {
     "seller_id" : "772418",
     "name" : "Fomo TV",
     "domain" : "fomo-tv.com",
@@ -466,6 +441,16 @@
     "name" : "Flicky TV",
     "domain" : "flicky.tv",
     "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "773726",
+    "name" : "Adviddo STR",
+    "domain" : "adviddo.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "773862",
+    "name" : "Vandalay Media",
+    "domain" : "vandalaymedia.com",
+    "seller_type" : "INTERMEDIARY"
   }, {
     "seller_id" : "772075",
     "name" : "Engage Media TV",
