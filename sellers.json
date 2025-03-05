@@ -133,11 +133,6 @@
     "domain" : "freetelly.com",
     "seller_type": "PUBLISHER"
   }, {
-    "seller_id" : "769456",
-    "name" : "ReachTV",
-    "domain" : "reach.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
     "seller_id" : "769457",
     "name" : "OTT Studio",
     "domain" : "ott.studio",
@@ -146,21 +141,6 @@
     "seller_id" : "797478",
     "name" : "Marquee",
     "domain" : "marqueemediaus.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797476",
-    "name" : "MLB",
-    "domain" : "mlb.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797474",
-    "name" : "MASN",
-    "domain" : "masnsports.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797472",
-    "name" : "AMC",
-    "domain" : "amc.com",
     "seller_type" : "PUBLISHER"
   }, {
     "seller_id" : "797470",
@@ -188,64 +168,14 @@
     "domain" : "flosports.tv",
     "seller_type" : "PUBLISHER"
   }, {
-    "seller_id" : "797460",
-    "name" : "Fuel TV",
-    "domain" : "fuel.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797458",
-    "name" : "Graham Media",
-    "domain" : "grahammedia.com",
-    "seller_type" : "PUBLISHER"
-  }, {
     "seller_id" : "767931",
     "name" : "GroupRVN",
     "domain" : "grouprvn.com",
     "seller_type" : "PUBLISHER"
   }, {
-    "seller_id" : "797456",
-    "name" : "LocalBTW",
-    "domain" : "localbtv.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797454",
-    "name" : "LocalNow",
-    "domain" : "localnow.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797452",
-    "name" : "MagellanTV",
-    "domain" : "magellantv.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797450",
-    "name" : "Motor Trend.",
-    "domain" : "motortrend.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797448",
-    "name" : "NESN",
-    "domain" : "nesn.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797446",
-    "name" : "NFL",
-    "domain" : "nfl.com",
-    "seller_type" : "PUBLISHER"
-  }, {
     "seller_id" : "797444",
     "name" : "Salem Media",
     "domain" : "salemmedia.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797442",
-    "name" : "SNY",
-    "domain" : "sny.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797440",
-    "name" : "Sports Grid",
-    "domain" : "sportsgrid.com",
     "seller_type" : "PUBLISHER"
   }, {
     "seller_id" : "797438",
@@ -258,51 +188,6 @@
     "domain" : "vevo.com",
     "seller_type" : "PUBLISHER"
   }, {
-    "seller_id" : "797434",
-    "name" : "VYRE",
-    "domain" : "vyre.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797432",
-    "name" : "WarnerMusic",
-    "domain" : "warnermusic.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797430",
-    "name" : "WotchoTV",
-    "domain" : "wotcho.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797428",
-    "name" : "Nexstar",
-    "domain" : "nexstar.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797426",
-    "name" : "Siprocal",
-    "domain" : "siprocal.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {
-    "seller_id" : "797424",
-    "name" : "SmartNews",
-    "domain" : "smartnews.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797422",
-    "name" : "Shareably",
-    "domain" : "shareably.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797420",
-    "name" : "Crackle",
-    "domain" : "crackle.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797418",
-    "name" : "Atmosphere",
-    "domain" : "atmosphere.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
     "seller_id" : "767823",
     "name" : "Adtelligent",
     "domain" : "adtelligent.com",
@@ -311,11 +196,6 @@
     "seller_id" : "797416",
     "name" : "GustoTV",
     "domain" : "gusto.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797414",
-    "name" : "Modern Luxury",
-    "domain" : "modernluxury.com",
     "seller_type" : "PUBLISHER"
   }, {
     "seller_id" : "797412",
@@ -342,11 +222,6 @@
     "domain" : "megadilla.co",
     "seller_type" : "PUBLISHER"
   }, {   
-    "seller_id" : "797406",
-    "name" : "Fandom",
-    "domain" : "fandom.com",
-    "seller_type" : "PUBLISHER"
-  }, {
     "seller_id" : "767780",
     "name" : "Oveeo",
     "domain" : "oveeo.com",
@@ -451,6 +326,11 @@
     "name" : "Vandalay Media",
     "domain" : "vandalaymedia.com",
     "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "776198",
+    "name" : "Playdigo",
+    "domain" : "playdigo.com",
+    "seller_type" : "BOTH"
   }, {
     "seller_id" : "772075",
     "name" : "Engage Media TV",
