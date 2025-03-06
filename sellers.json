@@ -118,9 +118,9 @@
     "domain" : "plex.tv",
     "seller_type" : "PUBLISHER"
   }, {
-    "seller_id" : "771965",
+    "seller_id" : "769455",
     "name" : "Streamvision",
-    "domain" : "streamvision.com",
+    "domain" : "streamvisionmedia.com",
     "seller_type" : "INTERMEDIARY"
   }, {
     "seller_id" : "769698",
@@ -136,11 +136,6 @@
     "seller_id" : "769457",
     "name" : "OTT Studio",
     "domain" : "ott.studio",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797478",
-    "name" : "Marquee",
-    "domain" : "marqueemediaus.com",
     "seller_type" : "PUBLISHER"
   }, {
     "seller_id" : "797470",
@@ -220,6 +215,11 @@
     "seller_id" : "772995",
     "name" : "Megadilla",
     "domain" : "megadilla.co",
+    "seller_type" : "PUBLISHER"
+  }, {   
+    "seller_id" : "77880",
+    "name" : "MLB",
+    "domain" : "mlb.tv",
     "seller_type" : "PUBLISHER"
   }, {   
     "seller_id" : "767780",
