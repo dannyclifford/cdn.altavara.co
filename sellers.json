@@ -17,6 +17,11 @@
     "domain" : "zeammedia.com",
     "seller_type" : "PUBLISHER"
   }, {
+    "seller_id" : "776198",
+    "name" : "Playdigo inc.",
+    "domain" : "playdigo.com",
+    "seller_type" : "PUBLISHER"
+  }, {   
     "seller_id" : "773073",
     "name" : "Oncore Digital",
     "domain" : "oncoredigital.com",
