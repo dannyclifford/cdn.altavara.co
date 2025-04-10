@@ -6,7 +6,12 @@
     "name" : "DUNS",
     "value" : "130916015"
 } ],
-  "sellers" : [ {
+  "sellers" : [ {  
+    "seller_id" : "777044",
+    "name" : "NextMillennium",
+    "domain" : "nextmillennium.com",
+    "seller_type" : "INTERMEDIARY"
+  }, {      
     "seller_id" : "774139",
     "name" : "YuppTV",
     "domain" : "yupptv.com",
