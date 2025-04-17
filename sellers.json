@@ -346,5 +346,45 @@
     "name" : "Engage Media TV",
     "domain" : "engagemedia.tv",
     "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "776445",
+    "name" : "PWRADS",
+    "domain" : "pwr-ads.com",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "776447",
+    "name" : "Added",
+    "domain" : "added.tv",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "776673",
+    "name" : "CinemoonTV",
+    "domain" : "cinemoon.tv",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "776707",
+    "name" : "TorroStream",
+    "domain" : "torrostream.com",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "seller_id" : "777110",
+    "name" : "Cviewly",
+    "domain" : "cviewly.com",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "777356",
+    "name" : "Bidscube",
+    "domain" : "bidscube.com",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "777430",
+    "name" : "Afront",
+    "domain" : "afront.io",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "seller_id" : "777044",
+    "name" : "NextMillenium",
+    "domain" : "nextmillennium.com",
+    "seller_type" : "INTERMEDIARY"
   }]
 }
