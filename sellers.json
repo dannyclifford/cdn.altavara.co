@@ -52,18 +52,6 @@
     "domain" : "placeexchange.com",
     "seller_type" : "INTERMEDIARY"
   }, {
-    "seller_id" : "769406",
-    "seller_type": "PUBLISHER",
-    "is_confidential": 1
-  }, {
-    "seller_id" : "768256",
-    "seller_type": "PUBLISHER",
-    "is_confidential": 1
-  }, {
-    "seller_id" : "771976",
-    "seller_type": "PUBLISHER",
-    "is_confidential": 1
-  }, {
     "seller_id" : "772164",
     "name" : "Taiv",
     "domain" : "taiv.tv",
@@ -77,11 +65,6 @@
     "seller_id" : "773722",
     "name" : "Infolinks",
     "domain" : "infolinks.com",
-    "seller_type" : "BOTH"
-  }, {
-    "seller_id" : "772766",
-    "name" : "Commodified Image",
-    "domain" : "commodifiedimage.com",
     "seller_type" : "BOTH"
   }, {
     "seller_id" : "772829",
@@ -118,10 +101,6 @@
     "name" : "FuboTV",
     "domain" : "fubo.tv",
     "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "772687",
-    "seller_type": "INTERMEDIARY",
-    "is_confidential": 1
   }, {
     "seller_id" : "771962",
     "name" : "Plex",
@@ -168,16 +147,6 @@
     "domain" : "coxmediagroup.com",
     "seller_type" : "PUBLISHER"
   }, {
-    "seller_id" : "797462",
-    "name" : "Flosports",
-    "domain" : "flosports.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "767931",
-    "name" : "GroupRVN",
-    "domain" : "grouprvn.com",
-    "seller_type" : "PUBLISHER"
-  }, {
     "seller_id" : "797444",
     "name" : "Salem Media",
     "domain" : "salemmedia.com",
@@ -188,82 +157,15 @@
     "domain" : "weather.com",
     "seller_type" : "PUBLISHER"
   }, {
-    "seller_id" : "797436",
-    "name" : "VEVO",
-    "domain" : "vevo.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "767823",
-    "name" : "Adtelligent",
-    "domain" : "adtelligent.com",
-    "seller_type" : "BOTH"
-  }, {
     "seller_id" : "797416",
     "name" : "GustoTV",
     "domain" : "gusto.tv",
     "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797412",
-    "name" : "Xumo",
-    "domain" : "xumo.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797410",
-    "name" : "Scripps Media Inc.",
-    "domain" : "scripps.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "772831",
-    "seller_type": "PUBLISHER",
-    "is_confidential": 1
-  }, {
-    "seller_id" : "797408",
-    "name" : "Blitz.gg",
-    "domain" : "blitz.gg",
-    "seller_type" : "PUBLISHER"
-  }, {  
-    "seller_id" : "772995",
-    "name" : "Megadilla",
-    "domain" : "megadilla.co",
-    "seller_type" : "PUBLISHER"
   }, {   
-    "seller_id" : "77880",
-    "name" : "MLB",
-    "domain" : "mlb.tv",
-    "seller_type" : "PUBLISHER"
-  }, {   
-    "seller_id" : "767780",
-    "name" : "Oveeo",
-    "domain" : "oveeo.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {
     "seller_id" : "797402",
     "name" : "Trusted Media Brands",
     "domain" : "trustedmediabrands.com",
     "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "768255",
-    "seller_type": "PUBLISHER",
-    "is_confidential": 1
-  }, {
-    "seller_id" : "797400",
-    "name" : "Rakuten",
-    "domain" : "viki.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "770192",
-    "name" : "Axis Corp",
-    "domain" : "axis-marketplace.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {
-    "seller_id" : "768039",
-    "seller_type": "PUBLISHER",
-    "is_confidential": 1
-  }, {
-    "seller_id" : "772550",   
-    "name" : "Viva CTV",
-    "domain" : "vivactv.com",
-    "seller_type" : "BOTH"
   }, {
     "seller_id" : "772212",
     "name" : "LoopTV",
@@ -284,18 +186,9 @@
     "seller_type": "PUBLISHER",
     "is_confidential": 1
   }, {
-    "seller_id" : "768000",
-    "seller_type": "INTERMEDIARY",
-    "is_confidential": 1
-  }, {
     "seller_id" : "767820",
     "seller_type": "PUBLISHER",
     "is_confidential": 1
-  }, {
-    "seller_id" : "771977",
-    "name" : "Flicky TV",
-    "domain" : "flicky.tv",
-    "seller_type" : "PUBLISHER"
   }, {
     "seller_id" : "773706",
     "name" : "Madstream",
@@ -317,26 +210,11 @@
     "domain" : "invisionery.com",
     "seller_type" : "PUBLISHER"
   }, {  
-    "seller_id" : "772418",
-    "name" : "FOMO TV",
-    "domain" : "fomo-tv.com",
-    "seller_type" : "PUBLISHER"
-  }, {  
     "seller_id" : "769701",
     "name" : "FAST TV",
     "domain" : "fasttvltd.com",
     "seller_type" : "BOTH"
   }, {  
-    "seller_id" : "773726",
-    "name" : "Adviddo STR",
-    "domain" : "adviddo.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "773862",
-    "name" : "Vandalay Media",
-    "domain" : "vandalaymedia.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {
     "seller_id" : "776198",
     "name" : "Playdigo",
     "domain" : "playdigo.com",
@@ -366,21 +244,6 @@
     "name" : "TorroStream",
     "domain" : "torrostream.com",
     "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "777110",
-    "name" : "Cviewly",
-    "domain" : "cviewly.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {
-    "seller_id" : "777356",
-    "name" : "Bidscube",
-    "domain" : "bidscube.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {
-    "seller_id" : "777430",
-    "name" : "Afront",
-    "domain" : "afront.io",
-    "seller_type" : "INTERMEDIARY"
   }, {
     "seller_id" : "777044",
     "name" : "NextMillenium",
