@@ -22,6 +22,11 @@
     "domain" : "zeammedia.com",
     "seller_type" : "PUBLISHER"
   }, {
+    "seller_id" : "3304",
+    "name" : "Nextenttv OÜ",
+    "domain" : "nextenttv.com",
+    "seller_type" : "PUBLISHER"
+  }, {
     "seller_id" : "776198",
     "name" : "Playdigo inc.",
     "domain" : "playdigo.com",
@@ -110,7 +115,7 @@
     "seller_id" : "769455",
     "name" : "Streamvision",
     "domain" : "streamvisionmedia.com",
-    "seller_type" : "INTERMEDIARY"
+    "seller_type" : "BOTH"
   }, {
     "seller_id" : "769698",
     "name" : "Zepheree",
@@ -150,11 +155,6 @@
     "seller_id" : "797444",
     "name" : "Salem Media",
     "domain" : "salemmedia.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797438",
-    "name" : "The Weather Channel",
-    "domain" : "weather.com",
     "seller_type" : "PUBLISHER"
   }, {
     "seller_id" : "797416",
@@ -251,3 +251,4 @@
     "seller_type" : "INTERMEDIARY"
   }]
 }
+
