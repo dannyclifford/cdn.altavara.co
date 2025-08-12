@@ -1,254 +1,310 @@
 {
-"contact_email" : "inventory-quality@altavara.co",
-"contact_address" : "33 Irving Pl, New York, NY 10003",
-"version" : "1.0",
-"identifiers" : [ {
-    "name" : "DUNS",
-    "value" : "130916015"
-} ],
-  "sellers" : [ {  
-    "seller_id" : "777044",
-    "name" : "NextMillennium",
-    "domain" : "nextmillennium.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {      
-    "seller_id" : "774139",
-    "name" : "YuppTV",
-    "domain" : "yupptv.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "774692",
-    "name" : "Zeam Media",
-    "domain" : "zeammedia.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "3304",
-    "name" : "Nextenttv OÜ",
-    "domain" : "nextenttv.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "776198",
-    "name" : "Playdigo inc.",
-    "domain" : "playdigo.com",
-    "seller_type" : "PUBLISHER"
-  }, {   
-    "seller_id" : "773073",
-    "name" : "Oncore Digital",
-    "domain" : "oncoredigital.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {   
-    "seller_id" : "773058",
-    "name" : "Oncore Digital",
-    "domain" : "oncoredigital.com",
-    "seller_type" : "PUBLISHER"
-  }, {   
-    "seller_id" : "773074",
-    "name" : "Mediafuse LLC.",
-    "domain" : "nrsdigitalmedia.com",
-    "seller_type" : "PUBLISHER"
-  }, {   
-    "seller_id" : "773075",
-    "name" : "GuruShots",
-    "domain" : "gurushots.com",
-    "seller_type" : "PUBLISHER"
-  }, {   
-    "seller_id" : "772114",
-    "name" : "Place Exchange (DOOH Network)",
-    "domain" : "placeexchange.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {
-    "seller_id" : "772164",
-    "name" : "Taiv",
-    "domain" : "taiv.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "772611",
-    "name" : "Barboards",
-    "domain" : "barboards.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "773722",
-    "name" : "Infolinks",
-    "domain" : "infolinks.com",
-    "seller_type" : "BOTH"
-  }, {
-    "seller_id" : "772829",
-    "name" : "Dark Matter TV",
-    "domain" : "darkmattertv.com", 
-    "seller_type" : "BOTH"
-  }, {
-    "seller_id" : "772041",
-    "name" : "Video Elephant",
-    "domain" : "videoelephant.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "772051",
-    "name" : "Edison Interactive",
-    "domain" : "edisoninteractive.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "771966",
-    "name" : "Adxcelerant",
-    "domain" : "adxact.tech",
-    "seller_type" : "INTERMEDIARY"
-  }, {
-    "seller_id" : "767935",
-    "name" : "TVIQ",
-    "domain" : "tviq.io", 
-    "seller_type" : "BOTH"
-  }, {
-    "seller_id" : "770262",
-    "name" : "Wizard Games",
-    "domain" : "wizardgames.ca",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "771960",
-    "name" : "FuboTV",
-    "domain" : "fubo.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "771962",
-    "name" : "Plex",
-    "domain" : "plex.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "769455",
-    "name" : "Streamvision",
-    "domain" : "streamvisionmedia.com",
-    "seller_type" : "BOTH"
-  }, {
-    "seller_id" : "769698",
-    "name" : "Zepheree",
-    "domain" : "zepheree.com",
-    "seller_type" : "PUBLISHER"
-  }, {    
-    "seller_id" : "769446",
-    "name" : "Telly Inc.",
-    "domain" : "freetelly.com",
-    "seller_type": "PUBLISHER"
-  }, {
-    "seller_id" : "769457",
-    "name" : "OTT Studio",
-    "domain" : "ott.studio",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797470",
-    "name" : "Answer Media",
-    "domain" : "answermedia.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797468",
-    "name" : "Azteca",
-    "domain" : "tvazteca.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797466",
-    "name" : "Blox Digital",
-    "domain" : "bloxdigital.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797464",
-    "name" : "Cox Media Group",
-    "domain" : "coxmediagroup.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797444",
-    "name" : "Salem Media",
-    "domain" : "salemmedia.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "797416",
-    "name" : "GustoTV",
-    "domain" : "gusto.tv",
-    "seller_type" : "PUBLISHER"
-  }, {   
-    "seller_id" : "797402",
-    "name" : "Trusted Media Brands",
-    "domain" : "trustedmediabrands.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "772212",
-    "name" : "LoopTV",
-    "domain" : "loop.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "772418",
-    "name" : "Fomo TV",
-    "domain" : "fomo-tv.com",
-    "seller_type" : "BOTH"
-  }, {
-    "seller_id" : "772158",
-    "name" : "Fundozer",
-    "domain" : "fundozer.com",
-    "seller_type" : "BOTH"
-  }, {
-    "seller_id" : "767995",
-    "seller_type": "PUBLISHER",
-    "is_confidential": 1
-  }, {
-    "seller_id" : "767820",
-    "seller_type": "PUBLISHER",
-    "is_confidential": 1
-  }, {
-    "seller_id" : "773706",
-    "name" : "Madstream",
-    "domain" : "madstream.net",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "773907",
-    "name" : "Stellor Media LLC.",
-    "domain" : "stellormedia.com",
-    "seller_type" : "BOTH"
-  }, {
-    "seller_id" : "773907",
-    "name" : "Fast Channels TV",
-    "domain" : "fastchannels.tv",
-    "seller_type" : "PUBLISHER"
-  }, {  
-    "seller_id" : "772991",
-    "name" : "Invisionery LLC.",
-    "domain" : "invisionery.com",
-    "seller_type" : "PUBLISHER"
-  }, {  
-    "seller_id" : "769701",
-    "name" : "FAST TV",
-    "domain" : "fasttvltd.com",
-    "seller_type" : "BOTH"
-  }, {  
-    "seller_id" : "776198",
-    "name" : "Playdigo",
-    "domain" : "playdigo.com",
-    "seller_type" : "BOTH"
-  }, {
-    "seller_id" : "772075",
-    "name" : "Engage Media TV",
-    "domain" : "engagemedia.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "776445",
-    "name" : "PWRADS",
-    "domain" : "pwr-ads.com",
-    "seller_type" : "INTERMEDIARY"
-  }, {
-    "seller_id" : "776447",
-    "name" : "Added",
-    "domain" : "added.tv",
-    "seller_type" : "INTERMEDIARY"
-  }, {
-    "seller_id" : "776673",
-    "name" : "CinemoonTV",
-    "domain" : "cinemoon.tv",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "776707",
-    "name" : "TorroStream",
-    "domain" : "torrostream.com",
-    "seller_type" : "PUBLISHER"
-  }, {
-    "seller_id" : "777044",
-    "name" : "NextMillenium",
-    "domain" : "nextmillennium.com",
-    "seller_type" : "INTERMEDIARY"
-  }]
+  "contact_email": "inventory-quality@altavara.co",
+  "contact_address": "33 Irving Pl, New York, NY 10003",
+  "version": "1.0",
+  "identifiers": [{
+    "name": "DUNS",
+    "value": "130916015"
+  }],
+  "sellers": [{
+        "seller_id": "2921",
+        "seller_type": "PUBLISHER",
+        "name": "Hubbard Broadcasting",
+        "domain": "hubbardbroadcasting.com"
+    }, {
+        "seller_id": "2922",
+        "seller_type": "PUBLISHER",
+        "name": "FreeCast",
+        "domain": "freecast.tv"
+    }, {
+        "seller_id": "2923",
+        "seller_type": "PUBLISHER",
+        "name": "FilmHub",
+        "domain": "filmhub.com"
+    }, {
+        "seller_id": "3389",
+        "seller_type": "PUBLISHER",
+        "name": "Moonball Media",
+        "domain": "moonballmedia.com"
+    }, {
+        "seller_id": "2924",
+        "seller_type": "PUBLISHER",
+        "name": "Janson Media",
+        "domain": "janson.com"
+    }, {
+        "seller_id": "2925",
+        "seller_type": "PUBLISHER",
+        "name": "MoonBall Media",
+        "domain": "moonballmedia.com"
+    }, {
+        "seller_id": "2926",
+        "seller_type": "PUBLISHER",
+        "name": "SportX",
+        "domain": "sportxads.com"
+    }, {
+        "seller_id": "2927",
+        "seller_type": "PUBLISHER",
+        "name": "Multimerica Media",
+        "domain": "multimericamedia.com"
+    }, {
+        "seller_id": "2928",
+        "seller_type": "PUBLISHER",
+        "name": "Pursuit TV",
+        "domain": "pursuitchannel.com"
+    }, {
+        "seller_id": "2929",
+        "seller_type": "PUBLISHER",
+        "name": "Outdoor America",
+        "domain": "outdooramerica.com"
+    }, {
+        "seller_id": "2960",
+        "seller_type": "PUBLISHER",
+        "name": "Ballys Sports",
+        "domain": "ballysports.com"
+    }, {
+        "seller_id": "3304",
+        "seller_type": "PUBLISHER",
+        "name": "Nextent TV",
+        "domain": "nextenttv.com"
+    }, {
+        "seller_id": "3315",
+        "seller_type": "PUBLISHER",
+        "name": "MonviewTV",
+        "domain": "monview.tv"
+    }, {
+        "seller_id": "3316",
+        "seller_type": "PUBLISHER",
+        "name": "Merit Street Media",
+        "domain": "meritstreetmedia.com"
+    }, {
+        "seller_id": "3317",
+        "seller_type": "PUBLISHER",
+        "name": "Blue Ant Media",
+        "domain": "blueantmedia.com"
+    }, {
+        "seller_id": "3318",
+        "seller_type": "PUBLISHER",
+        "name": "America's Real Voice (Performance One Media)",
+        "domain": "p1.media"
+    }, {
+        "seller_id": "3319",
+        "seller_type": "PUBLISHER",
+        "name": "Fuse",
+        "domain": "fuse.tv"
+    }, {
+        "seller_id": "3320",
+        "seller_type": "PUBLISHER",
+        "name": "Flixhouse",
+        "domain": "flixhouse.com"
+    }, {
+        "seller_id": "3321",
+        "seller_type": "PUBLISHER",
+        "name": "Navio",
+        "domain": "navio.tv"
+    }, {
+        "seller_id": "3322",
+        "seller_type": "PUBLISHER",
+        "name": "Rushlake Media",
+        "domain": "rushlake-media.com"
+    }, {
+        "seller_id": "3323",
+        "seller_type": "PUBLISHER",
+        "name": "Zepheree TV",
+        "domain": "zepheere.com"
+    }, {
+        "seller_id": "3324",
+        "seller_type": "PUBLISHER",
+        "name": "Wizard Games",
+        "domain": "wizardgames.ca"
+    }, {
+        "seller_id": "3325",
+        "seller_type": "PUBLISHER",
+        "name": "Whole Health TV",
+        "domain": ""
+    }, {
+        "seller_id": "3326",
+        "seller_type": "PUBLISHER",
+        "name": "Video Elephant",
+        "domain": "videoelephant.com"
+    }, {
+        "seller_id": "3327",
+        "seller_type": "PUBLISHER",
+        "name": "Telly TV",
+        "domain": "freetelly.com"
+    }, {
+        "seller_id": "3328",
+        "seller_type": "PUBLISHER",
+        "name": "Taiv",
+        "domain": "taiv.tv"
+    }, {
+        "seller_id": "3329",
+        "seller_type": "PUBLISHER",
+        "name": "Stormcast Cinema",
+        "domain": "stormcastcinema.com"
+    }, {
+        "seller_id": "3330",
+        "seller_type": "PUBLISHER",
+        "name": "Performance One Media",
+        "domain": "p1.media"
+    }, {
+        "seller_id": "3331",
+        "seller_type": "PUBLISHER",
+        "name": "OTT Studio",
+        "domain": "ott.studio"
+    }, {
+        "seller_id": "3332",
+        "seller_type": "PUBLISHER",
+        "name": "Megadilla",
+        "domain": "megadilla.co"
+    }, {
+        "seller_id": "3333",
+        "seller_type": "PUBLISHER",
+        "name": "Invisionery",
+        "domain": ""
+    }, {
+        "seller_id": "3334",
+        "seller_type": "PUBLISHER",
+        "name": "Fundozer",
+        "domain": "fundozer.com"
+    }, {
+        "seller_id": "3335",
+        "seller_type": "PUBLISHER",
+        "name": "FuboTV",
+        "domain": "fubo.tv"
+    }, {
+        "seller_id": "3336",
+        "seller_type": "PUBLISHER",
+        "name": "Fomo TV",
+        "domain": "fomo-tv.com"
+    }, {
+        "seller_id": "3337",
+        "seller_type": "PUBLISHER",
+        "name": "Dark Matter TV",
+        "domain": "darkmattertv.com"
+    }, {
+        "seller_id": "3338",
+        "seller_type": "PUBLISHER",
+        "name": "Cineverse",
+        "domain": "cineverse.com"
+    }, {
+        "seller_id": "3339",
+        "seller_type": "PUBLISHER",
+        "name": "Barboards",
+        "domain": "barboards.tv"
+    }, {
+        "seller_id": "3340",
+        "seller_type": "PUBLISHER",
+        "name": "Adviddo",
+        "domain": "adviddo.com"
+    }, {
+        "seller_id": "3366",
+        "seller_type": "PUBLISHER",
+        "name": "Teenly",
+        "domain": "teenly.tv"
+    }, {
+        "seller_id": "newson.us",
+        "seller_type": "PUBLISHER",
+        "name": "NewsON",
+        "domain": "newson.us"
+    }, {
+        "seller_id": "3368",
+        "seller_type": "PUBLISHER",
+        "name": "Xumo",
+        "domain": "xumo.com"
+    }, {
+        "seller_id": "3369",
+        "seller_type": "PUBLISHER",
+        "name": "Frndly TV",
+        "domain": "frndlytv.com"
+    }, {
+        "seller_id": "3370",
+        "seller_type": "PUBLISHER",
+        "name": "ODK Media",
+        "domain": "odkmedia.net"
+    }, {
+        "seller_id": "3371",
+        "seller_type": "PUBLISHER",
+        "name": "Sinclair",
+        "domain": "sbgi.net"
+    }, {
+        "seller_id": "3372",
+        "seller_type": "PUBLISHER",
+        "name": "Tubi",
+        "domain": "tubi.tv"
+    }, {
+        "seller_id": "3373",
+        "seller_type": "PUBLISHER",
+        "name": "Zeam Media",
+        "domain": "zeam.com/live"
+    }, {
+        "seller_id": "3374",
+        "seller_type": "PUBLISHER",
+        "name": "Free Telly",
+        "domain": "freetelly.com"
+    }, {
+        "seller_id": "3375",
+        "seller_type": "PUBLISHER",
+        "name": "ReachTV",
+        "domain": "reachtv.com"
+    }, {
+        "seller_id": "3376",
+        "seller_type": "PUBLISHER",
+        "name": "Plex",
+        "domain": "plex.tv"
+    }, {
+        "seller_id": "3377",
+        "seller_type": "PUBLISHER",
+        "name": "Engage Media",
+        "domain": "app.engagemedia.tv"
+    }, {
+        "seller_id": "3378",
+        "seller_type": "PUBLISHER",
+        "name": "Place Exchange",
+        "domain": "placeexchange.com"
+    }, {
+        "seller_id": "3379",
+        "seller_type": "PUBLISHER",
+        "name": "LoopTV",
+        "domain": "loop.tv"
+    }, {
+        "seller_id": "3380",
+        "seller_type": "PUBLISHER",
+        "name": "Mediafuse",
+        "domain": "mediafuse.com"
+    }, {
+        "seller_id": "3381",
+        "seller_type": "PUBLISHER",
+        "name": "Streamvision",
+        "domain": "streamvisionmedia.com"
+    }, {
+        "seller_id": "3382",
+        "seller_type": "PUBLISHER",
+        "name": "FAST Channels",
+        "domain": "fastchannelsnetwork.com"
+    }, {
+        "seller_id": "3383",
+        "seller_type": "PUBLISHER",
+        "name": "VivaCTV",
+        "domain": "vivactv.com"
+    }, {
+        "seller_id": "3386",
+        "seller_type": "PUBLISHER",
+        "name": "Bonneville",
+        "domain": "bonneville.com"
+    }, {
+        "seller_id": "3387",
+        "seller_type": "PUBLISHER",
+        "name": "JustWatch",
+        "domain": "justwatch.com"
+    }, {
+        "seller_id": "3388",
+        "seller_type": "PUBLISHER",
+        "name": "Outdoor America",
+        "domain": "outdooramerica.com"
+    }, {
+        "seller_id": "2917",
+        "seller_type": "PUBLISHER",
+        "name": "Blitz.gg",
+        "domain": "Blitz.gg"
+    }]
 }
-
