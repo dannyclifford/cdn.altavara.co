@@ -253,9 +253,9 @@
         "domain": "outdooramerica.com"
     }, {
        "seller_id": "780370",
-       "seller_type": "BOTH"
+       "seller_type": "BOTH",
        "name": "Meetscale inc.",
-       "domain": "flashb.id",
+       "domain": "flashb.id"
     }, {
         "seller_id": "2917",
         "seller_type": "PUBLISHER",
@@ -263,5 +263,6 @@
         "domain": "Blitz.gg"
     }]
 }
+
 
 
