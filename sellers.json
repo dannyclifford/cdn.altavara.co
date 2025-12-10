@@ -222,11 +222,6 @@
         "name": "Engage Media TV LTD",
         "domain": "app.engagemedia.tv"
     }, {
-        "seller_id": "3379",
-        "seller_type": "PUBLISHER",
-        "name": "Loop Media, Inc.",
-        "domain": "loop.tv"
-    }, {
         "seller_id": "3381",
         "seller_type": "PUBLISHER",
         "name": "Streamvision Media inc.",
@@ -268,6 +263,7 @@
         "domain": "Blitz.gg"
     }]
 }
+
 
 
 
