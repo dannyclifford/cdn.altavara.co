@@ -324,6 +324,39 @@ sharethrough.com, 0E9XxmSd, RESELLER, d53b998a7bd4ecd2
 altitude-arena.com, 6SBB5R5LD90375LITIQML41JVK, DIRECT
 Contextweb.com,563428,RESELLER,89ff185a4c4e857c
 
+#prismriot
+Prismriotads.com, 5052, DIRECT, 21e44d1aeccd12ef
+﻿triplelift.com, 13899, RESELLER, 6c33edb13117fd86
+beachfront.com, 15161, RESELLER, e2541279e8e2ca4d
+video.unrulymedia.com, 542531349, RESELLER
+connatix.com, 1465116300383166, RESELLER, 2af98acdee0e81ed
+connatix.com, 1809060123736696, RESELLER, 2af98acdee0e81ed
+Pubmatic.com, 167184, RESELLER, 5d62403b186f2ace
+smartadserver.com, 5838, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 5838, RESELLER, 060d053dcf45cbf3
+
+applovin.com, 2713cc543ecb0969b83e3fdbf9ff011f, RESELLER
+google.com, pub-9130183266015225, RESELLER, f08c47fec0942fa0
+glewed.tv, 204, RESELLER, 3cc5a0825f527a1e
+video.unrulymedia.com, 2014616652, RESELLER
+pubmatic.com, 162238, RESELLER, 5d62403b186f2ace
+pubnative.net, 1007621, RESELLER, d641df8625486a7b
+pubmatic.com, 156592, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
+google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0
+indexexchange.com, 190549, RESELLER, 50b1c356f2c5c8fc
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+triplelift.com, 12200, RESELLER, 6c33edb13117fd86
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+gannett.com, 22597229605, RESELLER
+contextweb.com, 561340, RESELLER, 89ff185a4c4e857c
+media.net, 8CUP5F2LD, RESELLER
+pubmatic.com, 163106, RESELLER, 5d62403b186f2ace
+appnexus.com, 9733, RESELLER
+smartadserver.com, 3630, RESELLER
+telaria.com, cd009, RESELLER, 1a4e959a1b50034a
+
 inventorypartnerdomain=darkmattertv.com
 inventorypartnerdomain=space-mob.com
 inventorypartnerdomain=tviq.io
+inventorypartnerdomain=PrismRiotAds.com
