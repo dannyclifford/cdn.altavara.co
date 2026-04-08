@@ -334,6 +334,10 @@ connatix.com, 1809060123736696, RESELLER, 2af98acdee0e81ed
 Pubmatic.com, 167184, RESELLER, 5d62403b186f2ace
 smartadserver.com, 5838, RESELLER, 060d053dcf45cbf3
 sharethrough.com, 5838, RESELLER, 060d053dcf45cbf3
+freewheel.tv, 543709, RESELLER
+freewheel.tv, sg1303005, RESELLER
+freewheel.tv, 543709-r-523319, RESELLER
+freewheel.tv, 543709-r-524565, RESELLER
 
 applovin.com, 2713cc543ecb0969b83e3fdbf9ff011f, RESELLER
 google.com, pub-9130183266015225, RESELLER, f08c47fec0942fa0
