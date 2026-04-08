@@ -192,7 +192,7 @@
         "name": "Technocloud LLC",
         "domain": "teenly.tv"
     }, {
-        "seller_id": "newson.us",
+        "seller_id": "3369",
         "seller_type": "PUBLISHER",
         "name": "NewsON",
         "domain": "newson.us"
@@ -203,6 +203,11 @@
         "domain": "odkmedia.net"
     }, {
         "seller_id": "3371",
+        "seller_type": "BOTH",
+        "name": "Clipmeup",
+        "domain": "clipmeupmedia.com"
+    }, {
+        "seller_id": "3372",
         "seller_type": "PUBLISHER",
         "name": "Sinclair",
         "domain": "sbgi.net"
@@ -251,6 +256,16 @@
         "seller_type": "PUBLISHER",
         "name": "Outdoor America inc.",
         "domain": "outdooramerica.com"
+    }, {
+        "seller_id": "772550",
+        "seller_type": "BOTH",
+        "name": "VivaCTV",
+        "domain": "vivactv.com"
+    }, {
+        "seller_id": "772995",
+        "seller_type": "BOTH",
+        "name": "Megadilla",
+        "domain": "megadilla.co"
     }, {
        "seller_id": "780370",
        "seller_type": "BOTH",
