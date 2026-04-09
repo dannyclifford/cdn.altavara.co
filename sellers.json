@@ -162,6 +162,11 @@
         "name": "Fundozer Kft",
         "domain": "fundozer.com"
     }, {
+        "seller_id": "3335",
+        "seller_type": "BOTH",
+        "name": "Adviddo",
+        "domain": "adviddo.com"
+    }, {
         "seller_id": "3336",
         "seller_type": "PUBLISHER",
         "name": "Fomo TV",
@@ -272,10 +277,40 @@
        "name": "Meetscale inc.",
        "domain": "flashb.id"
     }, {
-        "seller_id": "2917",
-        "seller_type": "PUBLISHER",
-        "name": "Blitz App, Inc.",
-        "domain": "Blitz.gg"
+       "seller_id": "782775",
+       "seller_type": "BOTH",
+       "name": "TeenlyTV",
+       "domain": "teenly.tv"
+    }, {
+       "seller_id": "787268",
+       "seller_type": "BOTH",
+       "name": "FilmFeed",
+       "domain": "filmhub.com"  
+    }, {
+       "seller_id": "781752",
+       "seller_type": "BOTH",
+       "name": "Monview",
+       "domain": "monview.tv"
+    }, {
+       "seller_id": "781505",
+       "seller_type": "BOTH",
+       "name": "Rely TV",
+       "domain": "relytv.com"
+    }, {
+       "seller_id": "786483",
+       "seller_type": "BOTH",
+       "name": "PlexPeer",
+       "domain": "plexpeer.com"
+    }, {
+       "seller_id": "784042",
+       "seller_type": "BOTH",
+       "name": "WotchoTV",
+       "domain": "wotchotv.com"
+    }, {
+       "seller_id": "2917",
+       "seller_type": "PUBLISHER",
+       "name": "Blitz App, Inc.",
+       "domain": "Blitz.gg"
     }]
 }
 
