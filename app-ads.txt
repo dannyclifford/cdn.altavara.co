@@ -360,6 +360,8 @@ appnexus.com, 9733, RESELLER
 smartadserver.com, 3630, RESELLER
 telaria.com, cd009, RESELLER, 1a4e959a1b50034a
 
+google.com, pub-1867803350568245, DIRECT, f08c47fec0942fa0
+
 inventorypartnerdomain=darkmattertv.com
 inventorypartnerdomain=space-mob.com
 inventorypartnerdomain=tviq.io
